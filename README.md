@@ -1,4 +1,4 @@
-# Randomized Byzantine Fault Tolerance
+# Randomized Byzantine Agreement
 
 This program implements the Randomized Byzantine Agreement Algorithm as described in:
 
